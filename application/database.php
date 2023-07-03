@@ -21,7 +21,7 @@ return [
 	              'username'        => 'root',
 	              // 密码
 	              'password'        => 'fdrEddasOp0mj3sd',
-                  'hostport'        => '3306',
+                  'hostport'        => '2156',
 	              // 连接dsn
 	              'dsn'             => '',
 	              // 数据库连接参数
@@ -63,7 +63,7 @@ return [
 	              'username'        => 'root',
 	              // 密码
 	              'password'        => 'fdrEddasOp0mj3sd',
-                  'hostport'        => '3306',
+                  'hostport'        => '2156',
 	              // 连接dsn
 	              'dsn'             => '',
 	              // 数据库连接参数
@@ -108,7 +108,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -153,7 +153,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -198,7 +198,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -242,7 +242,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -288,7 +288,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -332,7 +332,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -376,7 +376,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数
@@ -420,7 +420,7 @@ return [
 		// 密码
 		'password'        => 'fdrEddasOp0mj3sd',
 		// 端口
-		'hostport'        => '3306',
+		'hostport'        => '2156',
 		// 连接dsn
 		'dsn'             => '',
 		// 数据库连接参数

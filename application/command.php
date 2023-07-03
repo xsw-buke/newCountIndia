@@ -48,5 +48,6 @@ return [
 	'app\index\command\HourStatistics',
     'app\index\command\DayStatistics',
     'app\index\command\UserRetentionDetails',
+    'app\index\command\UpdateWithdrawOrder',
 ];
 
